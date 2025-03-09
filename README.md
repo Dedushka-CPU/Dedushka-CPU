@@ -16,7 +16,7 @@
 Базовые знания:  
 | JavaScript ✨ | PHP 🐘 | Python 🐍 | C ⚡ | C++ 🚀 |  
 |--------------|--------|-----------|------|---------|  
-| HTML+CSS 🎨  | MySQL 📊 | OpenServer 🖥️ |  
+| HTML+CSS 🎨  | MySQL 📊 | |  
 
 ---
 
